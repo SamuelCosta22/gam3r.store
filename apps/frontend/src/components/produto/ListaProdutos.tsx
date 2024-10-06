@@ -1,6 +1,6 @@
 'use client'
 
-import { ProdutoItem } from './ProdutoItem'
+import ProdutoItem from './ProdutoItem'
 import ProdutoNaoEncontrado from './ProdutoNaoEncontrado'
 import useProdutos from '@/data/hooks/useProduto'
 
